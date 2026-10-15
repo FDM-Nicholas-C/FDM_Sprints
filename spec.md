@@ -134,7 +134,7 @@
 
 12. Prepare evidence package.
 
-13. Human reviewer decision
+13. Human reviewer decision; Complaint Analyst handles things below Critical, Supervisor handles Critical.
 
 14. Approved response, audit trail, and closure.
 
