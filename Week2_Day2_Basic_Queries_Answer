@@ -1,0 +1,25 @@
+#1
+select * from complaint where status = 'OPEN';
+
+#2
+select * from complaint where status = 'OPEN' AND priority = 'High'
+
+#3
+select count(*), status from complaint group by status;
+
+#4
+select count(*), category from complaint group by category
+
+#5
+select * from complaint where customer_id = 'CUS001'
+
+#6
+select * from complaint_status_history where new_status = 'OPEN'
+and changed_at between '2026-10-20' and '2026-11-20'
+
+#7
+select * from service_request where closed_at is null
+
+#8
+select * from complaint order by received_at desc
+
