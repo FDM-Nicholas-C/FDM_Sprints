@@ -1,0 +1,17 @@
+measure_group,measure,unit,value,percent_of_valid_rows
+total,total_complaints,,120,100.0
+status_count,Closed,,34,28.3
+status_count,In Review,,32,26.7
+status_count,Escalated,,30,25.0
+status_count,Open,,24,20.0
+category_count,Mortgage Servicing,,31,25.8
+category_count,Card or Transaction Dispute,,25,20.8
+category_count,Service Quality,,21,17.5
+category_count,Digital Banking,,19,15.8
+category_count,Fees,,15,12.5
+category_count,Account Access,,9,7.5
+highest_volume_category,Mortgage Servicing,,31,25.8
+closed_case_resolution,avg_resolution_days,days,10.1,
+closed_case_resolution,median_resolution_days,days,9.0,
+closed_case_resolution,min_resolution_days,days,1,
+closed_case_resolution,max_resolution_days,days,20,
